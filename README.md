@@ -17,9 +17,11 @@ Make sure you:
 
 ## Step 1. Book you call with Deel  
 
+Through Deel, you will book a call with an Upwork tech support specialist that will share the credentials you need to log in to the program's Microsoft tenant. 
+
 ### 1.1 Follow this link 
 
-Go.oncehub.com/deel-upwork 
+go.oncehub.com/deel-upwork 
 
 
 ### 1.2 Run scannow  
@@ -38,7 +40,7 @@ Once in the command prompt, run the command sfc /scannow and press Enter
 
 ![scannow](https://github.com/libsyz/gig-instructions/blob/main/scannow.png)
 
-If the command is failing or showing errors that can't be fixed, it will likely be easier to reset the partition. 
+If the command is failing or showing errors that can't be fixed, it will likely be easier to reset your cimputer from scratch. 
 Please contact your manager if you are unsure 
 
 ### 1.3 Filling the Deel Booking Form 
